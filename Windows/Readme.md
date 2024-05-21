@@ -14,3 +14,8 @@ Analysis of Windows OS vulnerabilites and apps on Windows platform
 - [Windows 8.1 and Windows Server 2012](https://support.microsoft.com/en-us/topic/windows-8-1-and-windows-server-2012-r2-update-history-47d81dd2-6804-b6ae-4112-20089467c7a6)
 - [Windows 10](https://support.microsoft.com/en-us/topic/windows-10-update-history-53c270dc-954f-41f7-7ced-488578904dfe)
 
+### Finding relevant patches for binary diffing
+
+- [Microsoft Update Catalog - MUC](https://www.catalog.update.microsoft.com/home.aspx) - Search with KB articles
+- [Winbindex](https://winbindex.m417z.com/)
+
